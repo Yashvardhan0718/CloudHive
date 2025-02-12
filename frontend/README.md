@@ -44,13 +44,6 @@ Follow these steps to set up the CloudHive frontend locally:
 
 Your frontend development server should now be running at `http://localhost:3000`.
 
-## Demo Credentials
-
-To explore CloudHive, you can use the following temporary login credentials:
-
-- **Email:** `som2@email.com`
-- **Password:** `123456`
-
 ## Folder Structure
 
 The project folder structure is organized as follows:
